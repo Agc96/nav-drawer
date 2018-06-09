@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sidebar</string>
+    <string name="menu_header">Sidebar header example</string>
+    <string name="menu_camera">Camera</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_settings">Settings</string>
+</resources>
