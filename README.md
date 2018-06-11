@@ -30,5 +30,5 @@ Se han agregado un par de cosas cosas respecto a la presentación original:
     </menu>
   </item>
 ```
-Los items en realidad no están colocados directamente dentro del submenú, sino que están dentro de un **grupo** con la propiedad `android:checkableBehavior="single"`, esto es porque por defecto los items del submenú aparecen como no clickeables después de hacer clic, y con esta propiedad podemos resaltar cualquiera de los items dentro del grupo cuando se hagan clic en estos.
+Los items en realidad no están colocados directamente dentro del submenú, sino que están dentro de un **grupo** con la propiedad `android:checkableBehavior="single"`, esto es porque por defecto los items del submenú aparecen como no clickeables después de hacer clic (visualmente, porque aún se ejecutan las acciones que definimos en el `OnNavigationItemSelectedListener`), y con esta propiedad podemos resaltar cualquiera de los items dentro del grupo cuando se hagan clic en estos.
 
