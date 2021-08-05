@@ -1,4 +1,4 @@
-# Navigator Drawer (sidebar)
+# Navigation Drawer (sidebar)
 Ejemplo para un navigation drawer (sidebar) en Android dentro de un proyecto de Android Studio.
 
 ## Indicaciones
