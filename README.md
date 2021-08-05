@@ -1,5 +1,5 @@
-# Sidebar
-Ejemplo para un sidebar (navigation drawer en Android) dentro de un proyecto de Android Studio.
+# Navigator Drawer (sidebar)
+Ejemplo para un navigation drawer (sidebar) en Android dentro de un proyecto de Android Studio.
 
 ## Indicaciones
 Se han agregado un par de cosas cosas respecto a la presentación original:
